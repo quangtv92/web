@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+div
+{
+	border-left: solid #ccc 2px; 
+	float: left;
+	padding-left: 10px;
+	
+}
+
+div.idx
+{
+	width: 50px;
+}
+div.namex
+{
+	width: 150px;
+}
+div.startdate
+{
+	width: 100px;
+}
